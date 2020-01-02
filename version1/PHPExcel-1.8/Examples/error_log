@@ -1,0 +1,2 @@
+[13-Dec-2017 02:44:54 Europe/London] PHP Warning:  require_once(../Build/PHPExcel.phar): failed to open stream: No such file or directory in /home/intecareapp/public_html/Test/PHPExcel-1.8/Examples/01pharSimple.php on line 37
+[13-Dec-2017 02:44:54 Europe/London] PHP Fatal error:  require_once(): Failed opening required '../Build/PHPExcel.phar' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/intecareapp/public_html/Test/PHPExcel-1.8/Examples/01pharSimple.php on line 37

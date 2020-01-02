@@ -1,0 +1,42 @@
+[12-Feb-2018 02:57:57 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 112
+[12-Feb-2018 02:57:57 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 116
+[12-Feb-2018 02:57:57 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 124
+[12-Feb-2018 02:57:57 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 128
+[12-Feb-2018 02:57:57 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 132
+[12-Feb-2018 02:57:57 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 139
+[12-Feb-2018 02:57:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/intecareapp/public_html/Test/config.php:95
+Stack trace:
+#0 /home/intecareapp/public_html/Test/agency/home.php(139): GetPositionTitle(NULL)
+#1 {main}
+  thrown in /home/intecareapp/public_html/Test/config.php on line 95
+[12-Feb-2018 02:58:22 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 112
+[12-Feb-2018 02:58:22 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 116
+[12-Feb-2018 02:58:22 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 124
+[12-Feb-2018 02:58:22 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 128
+[12-Feb-2018 02:58:22 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 132
+[12-Feb-2018 02:58:22 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 139
+[12-Feb-2018 02:58:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/intecareapp/public_html/Test/config.php:95
+Stack trace:
+#0 /home/intecareapp/public_html/Test/agency/home.php(139): GetPositionTitle(NULL)
+#1 {main}
+  thrown in /home/intecareapp/public_html/Test/config.php on line 95
+[12-Feb-2018 02:58:47 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 106
+[12-Feb-2018 02:58:47 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 110
+[12-Feb-2018 02:58:47 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 118
+[12-Feb-2018 02:58:47 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 122
+[12-Feb-2018 02:58:47 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 126
+[12-Feb-2018 02:58:47 UTC] PHP Notice:  Undefined variable: row in /home/intecareapp/public_html/Test/agency/home.php on line 133
+[12-Feb-2018 02:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/intecareapp/public_html/Test/config.php:95
+Stack trace:
+#0 /home/intecareapp/public_html/Test/agency/home.php(133): GetPositionTitle(NULL)
+#1 {main}
+  thrown in /home/intecareapp/public_html/Test/config.php on line 95
+[22-Feb-2018 02:25:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/intecareapp/public_html/Test/agency/index.php on line 2
+[22-Feb-2018 02:25:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/intecareapp/public_html/Test/agency/index.php on line 2
+[22-Feb-2018 02:25:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/intecareapp/public_html/Test/agency/index.php on line 2
+[23-Feb-2018 06:15:08 UTC] PHP Warning:  require(/home/intecareapp/public_html/Test/config.php): failed to open stream: No such file or directory in /home/intecareapp/public_html/agency/index.php on line 10
+[23-Feb-2018 06:15:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/intecareapp/public_html/Test/config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/intecareapp/public_html/agency/index.php on line 10
+[04-Oct-2018 12:41:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'ip-160-153-57-72.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/intecareapp/public_html/config.php on line 756
+[23-Jan-2019 19:48:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'ip-160-153-57-72.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/intecareapp/public_html/config.php on line 756
+[01-Feb-2019 19:59:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'ip-160-153-57-72.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/intecareapp/public_html/config.php on line 774
+[21-Mar-2019 15:59:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'ip-160-153-57-72.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/intecareapp/public_html/config.php on line 756

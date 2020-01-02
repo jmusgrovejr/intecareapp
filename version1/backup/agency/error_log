@@ -1,0 +1,12 @@
+[08-Oct-2017 23:50:30 UTC] PHP Notice:  Use of undefined constant header - assumed 'header' in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:50:30 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:50:30 UTC] PHP Warning:  require(headerphp): failed to open stream: No such file or directory in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:50:30 UTC] PHP Fatal error:  require(): Failed opening required 'headerphp' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:05 UTC] PHP Warning:  require(header.php): failed to open stream: No such file or directory in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:05 UTC] PHP Fatal error:  require(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:18 UTC] PHP Warning:  require(/header.php): failed to open stream: No such file or directory in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:18 UTC] PHP Fatal error:  require(): Failed opening required '/header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:21 UTC] PHP Warning:  require(/header.php): failed to open stream: No such file or directory in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:21 UTC] PHP Fatal error:  require(): Failed opening required '/header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:24 UTC] PHP Warning:  require(/header.php): failed to open stream: No such file or directory in /home/intecareapp/public_html/agency/employee-verify.php on line 2
+[08-Oct-2017 23:51:24 UTC] PHP Fatal error:  require(): Failed opening required '/header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/intecareapp/public_html/agency/employee-verify.php on line 2
